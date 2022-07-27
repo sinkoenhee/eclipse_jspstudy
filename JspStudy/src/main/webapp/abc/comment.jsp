@@ -15,6 +15,7 @@
 <!-- 10*3=<%=10*3%> -->
 <body bgcolor="yellow">
   <h1>JSP 주석을 확인하는 예제</h1>
+  <h1>merge 연습중</h1>
   <%=5+3 %>
 </body>
 </html>
